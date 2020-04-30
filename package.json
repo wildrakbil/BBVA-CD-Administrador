@@ -22,7 +22,7 @@
     "@ng-bootstrap/ng-bootstrap": "^5.1.5",
     "@syncfusion/ej2-angular-richtexteditor": "^17.4.43",
     "classie": "^1.0.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ng-bootstrap-pagination": "^0.2.3",
     "ngx-bootstrap": "^5.3.2",
     "ngx-pagination": "^5.0.0",
